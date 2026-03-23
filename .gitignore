@@ -1,7 +1,5 @@
 nlp_project/
 __pycache__/
-*.joblib
-*.png
 .vscode/
 .idea/
 *.pyc
